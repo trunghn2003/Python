@@ -1,0 +1,22 @@
+[33mcommit 21f09a6199bc2e35c21a43f45cd533f8593ff033[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: trunghn2003 <134114519+trunghn2003@users.noreply.github.com>
+Date:   Fri May 31 09:41:51 2024 +0700
+
+    tao file 1 file
+
+[1mdiff --git a/test.py b/test.py[mcsa
+[1mnew file mode 100644[m
+[1mindex 0000000..d25d49e[m
+[1m--- /dev/null[m
+[1m+++ b/test.py[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32ma = 1[m
+\ No newline at end of file[m
+[1mdiff --git a/test1.py b/test1.py[m
+[1mnew file mode 100644[m
+[1mindex 0000000..16083d4[m
+[1m--- /dev/null[m
+[1m+++ b/test1.py[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32ma = 's'[m
+\ No newline at end of file[m
